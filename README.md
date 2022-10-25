@@ -1,7 +1,10 @@
 # SQL e JDBC com JAVA
 
-Iniciando os estudos em SQL e JDBC em java
+Iniciando os estudos em SQL e JDBC em java usando o Banco de Dados  PostgreSQL.
 
+#### Objetivo do repositório
+
+CRUD simples para ajudar a reforçar os Conhecimentos tanto em Java como SQL
 
 ## Introdução ao SQL
 
@@ -34,7 +37,7 @@ Subconjuntos da linguagem SQL
 - COMMIT;
 - ROLLBACK;
 
-#### Criando Banco de Dados
+## Criando Banco de Dados
 
 Criando nosso Banco de Dados usando PostgreSQL.
 
@@ -178,3 +181,22 @@ primeiro deletando as filhas e depois o Pai.
 delete from telefoneuser where usuariopessoa = 10
 delete from userposjava where id = 10  
 ~~~
+## Ferramentas e Tecnologias usadas nesse repositório 🌐
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Augusto-Java" height="60" width="60" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg >
+<img align="center" alt="Augusto-POSTGRESQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
+</div>    
+
+## Teste o projeto 👁‍🗨
+
+Download do projeto para testar em sua máquina: xxx
+
+## Entre em contado 👋
+  
+<div>
+  
+  <a href = "joseaugusto.mello01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-794a94234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+  </div>

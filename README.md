@@ -4,7 +4,7 @@ Iniciando os estudos em SQL e JDBC em java usando o Banco de Dados  PostgreSQL.
 
 #### Objetivo do repositório
 
-CRUD simples para ajudar a reforçar os Conhecimentos tanto em Java como SQL
+CRUD simples para ajudar a reforçar os Conhecimentos tanto em Java como SQL ultilizando o padrão de  Arquitetura DAO(Data Access Objects) 
 
 ## Introdução ao SQL
 

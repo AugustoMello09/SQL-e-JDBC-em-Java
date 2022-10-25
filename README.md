@@ -190,7 +190,7 @@ delete from userposjava where id = 10
 
 ## Teste o projeto 👁‍🗨
 
-Download do projeto para testar em sua máquina: xxx
+Download do projeto para testar em sua máquina: https://github.com/AugustoMello09/SQL-e-JDBC-em-Java/archive/refs/heads/main.zip
 
 ## Entre em contado 👋
   

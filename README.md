@@ -19,7 +19,7 @@ Subconjuntos da linguagem SQL
 #### DML (Date Manipulation Language)
 
 - INSERT;
-- DALETE;
+- DELETE;
 - UPDATE;
 
 #### DQL (Date Query Language)
